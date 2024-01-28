@@ -13,3 +13,5 @@ name[1]="kelto";
 console.log(name);
 var nam=name[2]
 console.log(nam);
+// name.push("Saib","shihab","age", 635, 62365, 73);
+// console.log(name);
